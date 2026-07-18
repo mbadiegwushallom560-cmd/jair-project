@@ -1,0 +1,87 @@
+body{
+    background: linear-gradient(white,skyblue);
+    color: black;
+
+}
+
+ol{
+     display: inline-block;
+     width: 130px;
+     color: white;
+
+
+}
+
+header{
+    background-image: url(../assets/devpic.jpg);
+    background-position: center;
+    background-size: 300%;
+    background-repeat: no-repeat;
+    height: 250px;
+    border: 3px solid blue;
+    border-radius: 20px;
+    padding: 15px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 500;
+    box-shadow: 5px 5px 5px 5px black;
+
+
+}
+
+h2{
+    /* background-color: grey */
+    color: blue;
+    border: 2px;
+    border-radius: 5px;
+    /* width: 10px; */
+    font-family: sans-serif;
+    font-size: 45px;
+    margin-top: 130px;
+    margin-left: 35px;
+
+    
+
+}
+
+.grace{
+    color: black;
+    background-color: grey;
+    border: 2px;
+    border-radius: 18px;
+    width: 310px;
+    font-family: cambria;
+    border: 2px solid black;
+
+
+}
+
+ul{
+    font-family: Cambria;
+
+    
+}
+
+.ball{
+    font-family: Cambria;
+}
+
+ul :hover{
+    color: white;
+    border: 2px solid blue;
+    border-radius: 10px;
+    
+
+}
+
+button{
+    background-color: red;
+    color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 20px;
+    box-sizing: 10px;
+    height: 22px;
+
+    
+}

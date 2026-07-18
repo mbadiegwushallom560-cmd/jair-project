@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+h1{
+    background-color: gray;
+    width: 400px ;
+    border:2px solid white;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: 40px;
+
+}
+
+button{
+    background-color: greenyellow;
+    color: black; 
+    border: 2px solid black;
+    border-radius: 10px 8px; 
+    font-family:sans-serif ;
+    text-transform: uppercase;
+    text-decoration: blue;
+
+
+}
+
+circle{
+    border: 2px solid ;
+    border-color: blue;
+    border-radius: 50px;
+    width: 200px;
+    height: 40px;
+    margin: 40px 8px;
+    justify-content: 100px;
+}
+
